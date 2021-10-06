@@ -20,7 +20,7 @@ def check_armstrong(number):
     if sum_now == sum_reqd:
         print("Yes, it is an Armstrong Number ")
     else:
-        print("No, it is an Armstrong Number ")
+        print("No, it is not an Armstrong Number ")
 
 
 def count_digits(number):
